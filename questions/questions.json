@@ -1,0 +1,79 @@
+{
+  "Questions": [
+    {
+      "question": "Which describes positive pressure breathing?",
+      "choices": [
+        "A. It is the pulling down of air to the lungs",
+        "B. It is the swallowing or the pushing down of air to the lungs",
+        "C. It is performed by humans",
+        "D. It is the cooling down of air"
+      ],
+      "answer": "B. It is the swallowing or the pushing down of air to the lungs"
+    },
+    {
+      "question": "Richard and Lucy tried to exhale all the air inside their lungs.  But no matter how hard they exhaled, there were air retained in their lungs.  Which describes this air?",
+      "choices": [
+        "A. Tidal volume",
+        "B. Vital capacity",
+        "C. Residual Air",
+        "D. Eupnea"
+      ],
+      "answer": "C. Residual Air"
+    },
+    {
+      "question": "What is the opening of the trachea where air enters the insect’s respiratory tract?",
+      "choices": [
+        "A. Spiracle",
+        "B. Bronchiole",
+        "C. Tracheole",
+        "D. Diaphragm"
+      ],
+      "answer": "A. Spiracle"
+    },
+    {
+      "question": "The Aorta and the carotid arteries have chemoreceptors that monitor the pH in the blood.",
+      "choices": ["A. True", "B. False"],
+      "answer": "A. True"
+    },
+    {
+      "question": "The following are considered as organs of the conducting portion of the human’s respiratory tract EXCEPT:",
+      "choices": ["A. Nostril", "B. Nasal Cavity", "C. Alveoli", "D. Trachea"],
+      "answer": "D. Trachea"
+    },
+    {
+      "question": "What is the use of Oxygen that you are inhaling from the environment?",
+      "choices": [
+        "A. For Photosynthesis",
+        "B. For cellular respiration",
+        "C. For formation of red blood cells",
+        "D. For absorption of nutrients"
+      ],
+      "answer": "C. For formation of red blood cells"
+    },
+    {
+      "question": "Toads respire through both skin and lungs.",
+      "choices": ["A. True", "B. False"],
+      "answer": "A. True"
+    },
+    {
+      "question": "When you inspire, you are breathing out air.",
+      "choices": ["A. True", "B. False"],
+      "answer": "B. False"
+    },
+    {
+      "question": "The functional unit of your lungs is called.",
+      "choices": ["A. Alveolus", "B. Nephron", "C. Neuron", "D. Spiracle"],
+      "answer": "A. Alveolus"
+    },
+    {
+      "question": "As you inhale, which of the following will NOT occur?",
+      "choices": [
+        "A. diaphragm contracts",
+        "B. diaphragm moves down",
+        "C. rib cage moves up",
+        "D. lungs expand"
+      ],
+      "answer": "C. rib cage moves up"
+    }
+  ]
+}
